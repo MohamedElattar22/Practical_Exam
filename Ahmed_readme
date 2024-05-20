@@ -1,0 +1,8 @@
+apply 
+data cleaaning preprocessing (replace null values with mode)
+data visualization : Scatter plots are the graphs that present
+the relationship between two variables in a data-set. 
+It represents data points on a two-dimensional plane or on a Cartesian system. 
+The independent variable or attribute is plotted on the X-axis,
+while the dependent variable is plotted on the Y-axis
+orange tool
